@@ -1,39 +1,32 @@
 # Bhaskar Jadhav
 
-### Building intelligent products, reliable backends, and practical developer tools
+Software builder working across AI, backend systems, automation, and applied machine learning.
 
-I am a software builder focused on turning ambitious ideas into working systems. My projects span AI and voice infrastructure, backend APIs, browser automation, machine learning, and cloud deployment.
+I enjoy turning product ideas into practical software, from conversational and voice experiences to APIs, browser tools, data-driven applications, and cloud deployments. My work is guided by clear architecture, useful documentation, and a focus on solving real problems.
 
-I care about products that are useful in the real world: clear architecture, thoughtful integrations, secure configuration, and documentation that helps another developer get started quickly.
+## Focus
 
-## What I build
+- AI and voice-enabled applications
+- Node.js and MongoDB backend systems
+- Browser automation and developer tools
+- Machine learning prototypes
+- Cloud deployment and workflow automation
 
-- **AI and voice systems** using TypeScript, Cloudflare Workers, Gemini, speech-to-text, and text-to-speech services
-- **Backend platforms and APIs** with Node.js, Express, MongoDB, authentication, file storage, and role-based workflows
-- **Machine learning projects** covering NLP, audio, computer vision, healthcare data, and predictive modeling
-- **Developer and workflow tools** including browser extensions, deployment automation, and SDK integrations
+## Selected projects
 
-## Selected work
-
-| Project | What it demonstrates |
+| Project | Description |
 | --- | --- |
-| [Essora AI Orchestration Worker](https://github.com/BhaskarJadhav/EssoraAI-sdk) | Edge API for AI chat, streaming speech recognition, speech synthesis, memory, and telemetry |
-| [Twenty CRM Deployment](https://github.com/BhaskarJadhav/Twenty-CRM-Deployment-) | Docker-based production deployment on Google Cloud with GitHub Actions CI/CD |
-| [Music Platform Backend](https://github.com/BhaskarJadhav/Spotify_Backend-project) | Express and MongoDB API with JWT authentication, role-based uploads, and cloud media storage |
-| [Machine Learning Project Suite](https://github.com/BhaskarJadhav/Internship-Projects-) | Credit scoring, speech emotion recognition, handwritten digit recognition, and disease prediction |
-| [LinkedIn Leads Extension](https://github.com/BhaskarJadhav/-Leads_Chrome_Extension) | Browser extension work focused on lead-generation workflows |
+| [Essora AI SDK](https://github.com/BhaskarJadhav/EssoraAI-sdk) | AI and voice orchestration services built for an intelligent product experience |
+| [Twenty CRM Deployment](https://github.com/BhaskarJadhav/Twenty-CRM-Deployment-) | Containerized CRM deployment on Google Cloud with automated delivery workflows |
+| [Music Platform Backend](https://github.com/BhaskarJadhav/Spotify_Backend-project) | Authentication, role-based publishing, MongoDB persistence, and media uploads |
+| [LinkedIn Leads Tracker](https://github.com/BhaskarJadhav/-Leads_Chrome_Extension) | Chrome extension for saving and organizing useful links and active tabs |
+| [MongoDB Notes API](https://github.com/BhaskarJadhav/Backendproject2) | Express REST API demonstrating persistent CRUD operations |
+| [Machine Learning Projects](https://github.com/BhaskarJadhav/SONAR) | A collection of focused prediction and classification experiments |
 
-## Core technologies
+## Technologies
 
 `JavaScript` `TypeScript` `Node.js` `Express` `Python` `MongoDB` `Cloudflare Workers` `Docker` `Google Cloud` `GitHub Actions` `scikit-learn` `TensorFlow`
 
-## Current direction
+## Contact
 
-I am developing systems at the intersection of conversational AI, voice interfaces, automation, and dependable backend infrastructure. I am especially interested in projects where a strong technical foundation can make a product feel simple.
-
-## Connect
-
-- Email: [bhaskarjadhav9666@gmail.com](mailto:bhaskarjadhav9666@gmail.com)
-- GitHub: [@BhaskarJadhav](https://github.com/BhaskarJadhav)
-
-Open to thoughtful conversations, technical collaboration, and ambitious product work.
+[Email](mailto:bhaskarjadhav9666@gmail.com) · [GitHub](https://github.com/BhaskarJadhav)
